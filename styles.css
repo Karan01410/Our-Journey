@@ -1,0 +1,35 @@
+#inputbox{
+    height: 40px;
+    width: 400px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+}
+
+.fa-heart-circle{
+    color:#212529;    
+    background-color: yellow;
+}
+
+.pic{
+    height: 450px;
+}
+
+.pic-1{
+    height: 750px;
+    width: 750px;
+}
+.pic-2{
+    height: 750px;
+    width: 1000px;
+}
+
+.card-img-top{
+    height: 200px;
+    width: 250px;
+}
+
+#one{
+    height: 500px;
+    width: 500px;
+}
